@@ -1,0 +1,9 @@
+baseURL = "http://localhost"
+languageCode = "en-us"
+title = "ESSAYS BY J.J."
+theme = "paperback"
+publishDir = "/home/pro/production"
+[params]
+  tagline = "Longform essays about anything and everything, written by a confused, coming-of-age, overthinking adult."
+  author = "Jewel James"
+
